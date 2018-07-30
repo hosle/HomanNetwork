@@ -14,6 +14,8 @@ Created in : 24th July 2018
 
 简单介绍Android网络模块引入Rx－Retrofit后，网络请求任务的新建、删除等管理操作方法。主要分为环境引用Retrofit、RxAndroid依赖库、网络请求任务类的创建、I／O数据实体的创建和任务仓库对网络任务的管理等四部分。
 
+* Demo 请参考 [HomanNetworkDemo](https://github.com/hosle/HomanNetworkDemo.git)
+
 # v2 版本
 
 ## 1 Feature
